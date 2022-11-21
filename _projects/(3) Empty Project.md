@@ -1,7 +1,7 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
+name: Ipo.capital.mn
+tools: [PHP, PHP Lumen, Vue JS, Express JS, Firebase, Google Cloud Functions, Redis, Centrifuge]
 image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
-external_url: https://github.com/YoussefRaafatNasry
+description: IPO order system
+external_url: https://ipo.icapital.mn
 ---
