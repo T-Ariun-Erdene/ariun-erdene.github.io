@@ -1,7 +1,7 @@
 ---
 name: icapital.mn
 tools: [PHP, PHP Laravel, PHP Orchid, PHP Blade, Express JS, Firebase, Google Cloud Functions, Redis]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+image: [./../images/icapital.png]
 description: Broker system (secondary market)
 external_url: https://www.icapital.mn
 ---
